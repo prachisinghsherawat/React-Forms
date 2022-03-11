@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "name": "Prachi",
+      "age": "20",
+      "address": "Ghaziabad",
+      "department": "tech",
+      "salary": "80000",
+      "status": "unmarried",
+      "id": 1
+    },
+    {
+      "name": "Shweta",
+      "age": "22",
+      "address": "Delhi",
+      "department": "manage",
+      "salary": "40000",
+      "status": "unmarried",
+      "id": 2
+    },
+    {
+      "name": "Hardik",
+      "age": "20",
+      "address": "Hapur",
+      "department": "manage",
+      "salary": "60000",
+      "status": "unmarried",
+      "id": 3
+    }
+  ]
+}
